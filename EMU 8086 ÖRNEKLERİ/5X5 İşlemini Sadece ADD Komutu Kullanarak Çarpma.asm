@@ -1,0 +1,9 @@
+org 100h
+
+MOV AX,5
+MOV BX,5
+
+ADD AX,BX
+ADD AX,AX
+ADD AX,BX
+RET

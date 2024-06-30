@@ -1,0 +1,7 @@
+org 100h
+
+MOV AX,5
+ADD AX,AX
+ADD AX,AX
+
+RET

@@ -1,0 +1,7 @@
+org 100h
+
+MOV AX,5
+MOV BX,2
+SUB AX,BX
+
+RET
